@@ -40,4 +40,4 @@ This is an E-commerce project developed using HTML, CSS, JavaScript, PHP, and My
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-sehranrasooljan@gmail.com).
+For any questions or inquiries, please contact [sehranrasooljan@gmail.com](mailto:your-sehranrasooljan@gmail.com).
