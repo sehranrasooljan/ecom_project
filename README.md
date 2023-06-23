@@ -1,31 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sehran Rasool Jan</h1>
-<h3 align="center">A Passionate Developer From Kashmir India.</h3>
+# E-commerce Project
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehranrasooljan&label=Profile%20views&color=0e75b6&style=flat" alt="sehranrasooljan" /> </p>
+This is an E-commerce project developed using HTML, CSS, JavaScript, PHP, and MySQL. The project consists of two views, one for the admin and another for the users.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehranrasooljan" alt="sehranrasooljan" /></a> </p>
+## Features
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- User View: Users can browse and purchase products.
+- Admin View: Admins can manage products and perform administrative tasks.
 
-- 🔭 I’m currently working on **AWS**
+## Technologies Used
 
-- 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan](www.github.com/sehranrasooljan)
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-- 💬 Ask me about **AWS, EC2, LAMDA, DynamoDB, HTML, CSS, JavaScript, PHP, Node.js**
+## Installation
 
-- 📫 How to reach me **sehranrasooljan@gmail.com**
+1. Clone the repository:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sehran-rasool-jan-278b93211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehran-rasool-jan-278b93211/" height="30" width="40" /></a>
-<a href="https://fb.com/mirxasehran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirxasehran" height="30" width="40" /></a>
-<a href="https://instagram.com/sehranrasooljan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sehranrasooljan" height="30" width="40" /></a>
-</p>
+   ```
+   git clone https://github.com/sehranrasooljan/ecom_project.git
+   ```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> </p>
+2. Configure the server environment:
+   - Set up a web server (e.g., Apache) and make sure PHP is installed.
+   - Configure the server to serve the project from the cloned repository's directory.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="sehranrasooljan" /></p>
+3. Access the application:
+   - Open a web browser and navigate to the URL where the project is hosted.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="sehranrasooljan" /></p>
+## Usage
 
+- **Admin View**: After registering as an admin and logging in, you can access the admin view. From there, you can manage products, add new products, and perform administrative tasks.
+
+- **User View**: In the user view, you can browse and purchase products available in the system.
+
+
+
+## Contact
+
+For any questions or inquiries, please contact [your-email@example.com](mailto:your-sehranrasooljan@gmail.com).
