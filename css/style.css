@@ -1,0 +1,84 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .card h3 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .card p {
+    margin-bottom: 10px;
+  }
+  
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .price {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .add-to-cart {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #0056b3;
+  }
+  .site-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  .site-footer h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .site-footer p {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+  }
+  
+  .contact-info li {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info i {
+    margin-right: 5px;
+  }
+    
