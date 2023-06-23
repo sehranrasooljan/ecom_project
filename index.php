@@ -44,11 +44,7 @@
                     <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
                     <!-- <button class="btn btn-outline-light" type="submit">Search</button> -->
                 </form>
-                <div class="mx-2">
-          <a type="submit" class="btn btn-danger" href="login.php"> Login </a>  </button>
-    
-          <a type="submit" class="btn btn-danger" name="btsignup"> Signup </a>  </button>
-        </div>
+         
                 </div>
             </div>
         </div>
@@ -151,6 +147,7 @@ mysqli_close($connection);
       </div>
     </div>
   </div>
+  <center><p> <a href="login.php"> login as admin</a></center>
 </footer>
 
 
