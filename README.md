@@ -28,7 +28,7 @@ This is an E-commerce project developed using HTML, CSS, JavaScript, PHP, and My
    - Configure the server to serve the project from the cloned repository's directory.
 
 3. Access the application:
-   - Open xamp and Strt Apache and MySQL.
+   - Open xamp and Start Apache and MySQL.
    - Create a Database 'ecom'.
    - Import the 'ecom.sql' file.
 
